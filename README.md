@@ -10,11 +10,7 @@ This project is a real-time computer vision system designed to detect and transl
 - **Auto-Spacing and Auto-Clearing:** Automatically inserts spaces between words if the hand is removed from the frame for a specific duration, and clears the screen if removed for a longer period.
 - **Arabic Text Rendering:** Utilizes `arabic_reshaper` and `python-bidi` to correctly render connected right-to-left Arabic text directly on the OpenCV video feed.
 
-- 
-
-
-
-
+-  <img width="426" height="240" alt="Video Project 20" src="https://github.com/user-attachments/assets/93f86bb0-eca0-4aaf-9014-9e1d9f3d7642" />
 
 ## Project Structure
 - `make_data.py`: A script to collect image data for each class (letter) using the webcam.
